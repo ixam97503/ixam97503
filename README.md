@@ -41,6 +41,10 @@
 > Base de datos + interfaz para gestión de espacios  
 > ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat)
 
+### 🚦 [Máquina de Estados en VHDL](https://github.com/tu-usuario/maquina-estados-vhdl)
+> Implementación de una máquina de estados para controlar semáforos inteligentes  
+> ![VHDL](https://img.shields.io/badge/-VHDL-9C27B0?style=flat) ![Xilinx](https://img.shields.io/badge/-Xilinx-00A8E8?style=flat) ![ModelSim](https://img.shields.io/badge/-ModelSim-FF5733?style=flat)
+
 ---
 
 ## 📜 **Logros Académicos**
@@ -66,7 +70,7 @@ Desarrollo de aplicación como proyecto final
 
 [![Gmail](https://img.shields.io/badge/-profesionalisabelpalacio@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:profesionalisabelpalacio@gmail.com)
 [![GitHub](https://img.shields.io/badge/-@ixam97503-181717?style=flat&logo=github)](https://github.com/ixam97503)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)]([ENLACE-LINKEDIN-AQUÍ]) *(¡Conectemos!)*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://co.linkedin.com/in/isabel-palacio-62765b329) *(¡Conectemos!)*
 
 ---
 

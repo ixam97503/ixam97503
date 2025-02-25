@@ -1,7 +1,7 @@
 # .ixam97503
 # 👋 Hola, soy *Isabel Alissia Palacio Parra*
 
-Soy una estudiante de *4to semestre de Ingeniería Electrónica* con una pasión especial por la *robotica* y * desarrollo IoT. Tengo experiencia en **desarrollo en Python* y *Arduino*, además, he trabajado con *ESP32, así como en **MATLAB*. Participe y fui ganadora junto a mi equipo de *Premio Nacional Ticcher Challange (2022)*, fue un concuros hecho por MinTIC en colaboración con la BBC y Microchip en el cual ganamos kits de aprendizaje para nuestra institución educativa.
+Soy una estudiante de *4to semestre de Ingeniería Electrónica* con una pasión especial por la **robotica** y **desarrollo IoT**. Tengo experiencia en **desarrollo en Python** y **Arduino**, además, he trabajado con **ESP32**, así como en **MATLAB**. Participe y fui ganadora junto a mi equipo de **Premio Nacional Ticcher Challange (2022)**, fue un concuros hecho por MinTIC en colaboración con la BBC y Microchip en el cual ganamos kits de aprendizaje para nuestra institución educativa.
 
 A continuación, te muestro algunas de las herramientas y lenguajes que utilizo:
 
@@ -45,12 +45,16 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo
 
 ## 🌱 Proyectos Destacados
 
-### [Sistema de Asistencia - PYTHON](https://github.com/anidroid1184/attendance-system) 
-- *Descripción*: Un sistema de asistencia desarrollado en Python que permite registrar y gestionar la asistencia de los usuarios de manera eficiente. Incluye funcionalidades para el registro, autenticación y análisis de datos.
-- *Tecnologías Usadas*: Python, Django, PostgreSQL
+### [Semaforo autonomo usando Arduino](https://github.com/ixam97503/semaforo-autonomo)
+- *Descripción*: En este proyecto configure un sistema para el control autonomo de un parqueadero a escala, usando arduino.
+- *Tecnologías Usadas*: Arduino
+
+### [Base de datos para parqueadero](https://github.com/ixam97503/bd-parking)
+- *Descripción*: En este proyecto configure una base de datos de una aplicación la cual gestionaba los espacios en un parqueadero a escala.
+- *Tecnologías Usadas*: Python, Tkinter, Pandas.
 
 ## 📚 Aprendiendo Actualmente
-- *Idiomas*: He explorado y desarrollado habilidades en diferentes idiomas como lo es Chino- Mandarin. Italiano y Ingles 
+- *Idiomas*: He explorado y desarrollado habilidades en diferentes idiomas como lo es Chino-Mandarin, Italiano e Ingles.
 - *Machine Learning*: Explorando fundamentos y aplicaciones de machine learning.
 
 ## 🎖 Certificaciones y medallas 
@@ -61,7 +65,7 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo
 
 ## 📫 ¿Cómo contactarme?
 
-- *LinkedIn*: [Isabel Alissia Palacio Parra](https://www.linkedin.com/in/juan-sebastian-valencia-londo%C3%B1o-b085522b5/)
+- *LinkedIn*: [Isabel Alissia Palacio Parra]()
 - *GitHub*: [ixam97503](https://github.com/ixam97503)
 - *Correo*: [profesionalisabelpalacio@gmail.com](mailto:profesionalisabelpalacio@gmail.com)
 
@@ -83,9 +87,9 @@ A continuación, te muestro algunas de las herramientas y lenguajes que utilizo
 <div>
     <h3>Conéctate conmigo:</h3>
     <ul>
-        <li><a href="https://github.com/anidroid1184">GitHub</a></li>
-        <li><a href="https://linkedin.com/in/juan-sebastian-valencia-londo%C3%B1o-b085522b5/">LinkedIn</a></li>
+        <li><a href="https://github.com/anidroid1184](https://github.com/ixam97503">GitHub</a></li>
+        <li><a href="">LinkedIn</a></li>
         <li><a href="">Instagram</a></li>
-        <li><a href="mailto:valencialondonojuansebastian@gmail.com">Correo</a></li>
+        <li><a href="mailto:profesionalisabelpalacio@gmail.com">Correo</a></li>
     </ul>
 </div>
